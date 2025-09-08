@@ -9,4 +9,5 @@ It contains all required files including LICENSE, CODE_OF_CONDUCT.md, CONTRIBUTI
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
-This is my edit for Part 2
+This is my edit for Part 2 
+I have edited.
